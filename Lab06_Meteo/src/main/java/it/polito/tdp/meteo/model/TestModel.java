@@ -6,9 +6,11 @@ public class TestModel {
 		
 		Model m = new Model();
 		
-		System.out.println(m.getUmiditaMedia(12));
+		//System.out.println(m.getAllRilevamentiMese(5));
 		
-		System.out.println(m.trovaSequenza(5));
+		//System.out.println(m.getUmiditaMedia(5));
+		
+		System.out.println(m.trovaSequenza(4));
 		
 
 	}
